@@ -1,25 +1,8 @@
-[<span class="badge-opencollective"><a href="https://github.com/ZarTek-Creole/DONATE" title="Donate to this project"><img src="https://img.shields.io/badge/open%20collective-donate-yellow.svg" alt="Open Collective donate button" /></a></span>
-[![CC BY 4.0][cc-by-shield]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+<span class="badge-opencollective"><a href="https://github.com/ZarTek-Creole/DONATE" title="Donate to this project"><img src="https://img.shields.io/badge/open%20collective-donate-yellow.svg" alt="Open Collective donate button" /></a></span>
 [![CC BY 4.0][cc-by-shield]][cc-by]
-This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
-[![CC BY 4.0][cc-by-image]][cc-by]
+
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-
- <span class="badge-opencollective"><a href="https://github.com/ZarTek-Creole/DONATE" title="Donate to this project"><img src="https://img.shields.io/badge/open%20collective-donate-yellow.svg" alt="Open Collective donate button" /></a></span>
-# slv-prebw
-
-## pzs-ng dZBot/ngbot plugin to show bandwidth after pre
-
-So what's so special about ANOTHER PreBW script? Well, this one works
-seperate from pre script so you can prolly use it with every pre script
-thats out there. Also it's an pzs-ng plugin... or kinda ;)
-
-An other feature is that it doesnt announce anything if there's no output bw
 made (can be disabled tho). This is my first public script so if anything
 fucks up dont blame me. Also I dont like (obvious) questions about this,
 if it doesnt work for you - too bad, it does for me! :p
